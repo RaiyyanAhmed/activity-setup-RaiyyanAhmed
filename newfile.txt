@@ -1,0 +1,11 @@
+This is carters change for Part 2 — Pull Request Workflow
+Partner A
+Create a new branch
+Make a small change to any file
+Commit changes
+Push the branch to GitHub
+Create a Pull Request
+Add:
+A short description
+Label: activity
+Tag Partner B as reviewer
